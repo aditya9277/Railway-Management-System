@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib\\flatlaf-3.5.3.jar",
+        "lib\\mysql-connector-j-9.1.0.jar",
+        "c:\\Users\\hp\\Desktop\\jaishreeram\\RailSystem - Copy\\lib\\mysql-connector-j-9.1.0.jar"
+    ]
+}
